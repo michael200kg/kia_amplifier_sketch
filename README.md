@@ -1,4 +1,4 @@
-# kia_amplifier_sketch
+# Kia amplifier control sketch
 
  This sketch is revisited version by baralgin1003 https://github.com/baralgin1003/Arduino_canbus_hyundai-kia
  
